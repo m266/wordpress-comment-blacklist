@@ -1,2 +1,8 @@
 # wordpress-comment-blacklist
-Kommentar-Blacklist fuer WordPress
+Globale Kommentar-Blacklist fuer WordPress
+Hilft gegen Spam in
+- Kommentaren
+- Kontaktformulare (Contact Form 7)
+- Gaestebuch "WP H-Guestbuch"
+Neue Spams bitte zur Eintragung in diese Liste hier melden:
+https://web266.de/kontakt/
