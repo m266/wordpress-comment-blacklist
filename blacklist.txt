@@ -1,4 +1,3 @@
-.ru
 .xyz
 .xyz/
 abcagency.se
