@@ -1,3 +1,4 @@
+.ly/
 .xyz
 .xyz/
 abcagency.se
