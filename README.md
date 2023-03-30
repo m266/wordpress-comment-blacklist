@@ -2,7 +2,7 @@
 Globale Kommentar-Blacklist fuer WordPress
 Hilft gegen Spam in
 - Kommentaren
-- Kontaktformularen (Contact Form 7)
+- Kontaktformularen (Contact Form 7, Happyforms)
 - Gaestebuch "WP H-Guestbuch"
 
 Neue Spams bitte zur Eintragung in diese Liste hier melden:
